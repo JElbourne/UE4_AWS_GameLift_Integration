@@ -1,0 +1,1 @@
+https://cretetest.auth.us-east-1.amazoncognito.com/login?client_id=3mmkkg8hf33khrvngo0f3f9an5&response_type=code&scope=aws.cognito.signin.user.admin+crete.game.api/access+email+openid+phone+profile&redirect_uri=https://qgn5q1sw19.execute-api.us-east-1.amazonaws.com/CreteTest/getsigninresult
